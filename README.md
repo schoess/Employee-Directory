@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Employee-Directory
+Try it here: [Deployed App](https://employee-directory-schoess.herokuapp.com/)
 
 ## Available Scripts
 
